@@ -1,0 +1,7 @@
+streamlit
+langchain-google-genai
+langchain
+dotenv
+pydf
+pandas
+docx2txt
